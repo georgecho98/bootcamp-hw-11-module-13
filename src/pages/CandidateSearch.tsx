@@ -74,7 +74,7 @@ const CandidateSearch = () => {
 
   return (
   <>
-  <h1>CandidateSearch</h1>
+  <h1>Super Fast Search Engine</h1>
       
   <body>
     <main>
